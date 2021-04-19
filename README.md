@@ -1,5 +1,5 @@
 # CPSC-411-School-Planner-App   -- Project Submission
 
-#Course: CPSC 411
+# Course: CPSC 411
 
-#Name: Brandon Ruiz
+# Name: Brandon Ruiz
