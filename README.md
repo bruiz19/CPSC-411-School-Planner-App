@@ -2,4 +2,4 @@
 
 # Course: CPSC 411-02
 
-# Name: Brandon Ruiz
+# Group Members: Brandon Ruiz, Uyen Le
